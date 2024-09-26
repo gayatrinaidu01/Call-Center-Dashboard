@@ -1,5 +1,8 @@
 # Call-Center-Dashboard
 This project showcases the creation of an interactive Call Center Performance Dashboard using Excel.
+# Call Center Project: 
+1. Data File Link: https://github.com/gayatrinaidu01/Call-Center-Dashboard/blob/main/Call%20Center_Data%20File.xlsx
+2. Interactive Dashboard Link: https://github.com/gayatrinaidu01/Call-Center-Dashboard/blob/main/Call%20Center_Dashboard%20File.xlsx
 
 ### Project Objective:
   
